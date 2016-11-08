@@ -1,4 +1,5 @@
-package io.pivotal.demo.domain;
+package io.pivotal.demo.quotes.domain;
+
 
 import javax.persistence.*;
 import java.io.Serializable;
